@@ -1,20 +1,13 @@
-Reporte de accidentes de tránsito en Montevideo
------------------------------------------------
 
-El proposito de esta aplicacion es el analisis de los accidentes de trancito en montevideo identificando los puntos de mayor frecuancia de accidentes.
+==Traffic Report==
 
-La informacion fue obtenida de datos abirtos liberados por la Intendencia de Montevideo, Dependencia responsable Geomática. Para el estudio se utilizaron datos de todos los accidentes de trancito con lesionados por el periodo del 2006-2010. 
+The purpose of this programme is to analyse information about traffic jams and accidents, identifying the "hot spots" to avoid, weaknesses, local needs and alternative routes to safely travel.
+Data should come from open sources available online or requesting authorities to share/open their information related to traffic.
+Originally, this application was part of a hackathon named "Desarrollando America Latina" and located in different countries, sourching data for this specific project in Montevideo and its City Council.
+Although European countries have a far lower rate of traffic accidents, this is still a problem and citizens can minimise risks with access to good and reliable information.
+This programme is FLOSS and is under GPL 2
 
-Esta aplicaccion fue desarrollada en el entorno del hackaton Desarrollando América Latina y obtuvo el segundo premio en el evento por Uruguay.
-El codigo fuente esta disponible bajo la licencia GNU AFFERO GENERAL PUBLIC LICENSE.
+Thanks.
 
-Miembros del equipo:
-Silvia Sánchez <lailahfsf@gmail.com>
-Horacio Zamora <zamora.horacio@gmail.com>
-Sergio Garcia Spaolonzi <serge@cobalys.com>
-
-Links:
-Datos Libres IMM: http://www.montevideo.gub.uy/institucional/datos-abiertos
-Desarrollando América Latina: http://desarrollandoamerica.org/ 
-Descarga del Software: https://github.com/desarrollandoAmericaLatina/Reportes-de-Accidentes-de-Transito
+---------------
 
